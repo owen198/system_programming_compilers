@@ -1,0 +1,6 @@
+MACRO - - -
+INCR &A &B &C
+A 1 &A -
+A 2 &B -
+A 3 &C -
+MEND - - -
