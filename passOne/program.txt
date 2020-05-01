@@ -1,0 +1,9 @@
+PG3 START -
+- USING *,BASE
+- L 1,FOUR
+- A 1,=F'5'
+- ST 1,TEMP
+FOUR DC F'4'
+TEMP DS 1'F'
+BASE EQU 8
+-  END -
