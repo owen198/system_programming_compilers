@@ -1,4 +1,0 @@
-PG3 0 1 
-FOUR 12 4 
-TEMP 16 4 
-BASE 8 1 
